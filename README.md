@@ -1,4 +1,7 @@
-# Project Name: Stripe React Node Integration
+# Project Name: Stripe Payment Integration
+
+Frontend: ReactJS
+Backend: NodeJS
 
 This project demonstrates the integration of Stripe Checkout with a React front end and a Node.js backend.
 
