@@ -10,11 +10,14 @@ The project includes a simple web application where users can make payments usin
 
 - Node.js installed
 - Stripe account and API keys
-
 ## Installation
+- Clone the repository:
+  
+  ```bash
+   https://github.com/nikhilarokkam/Stripe-Payment-Integration.git
+## Usage
 ### Backend
 <ol>
-  <li>Create a folder "Stripe-Demo"</li>
   <li>npx create-react-app stripe-react-node</li>
   <li>cd stripe-react-node</li>
   <li>cd server</li>
