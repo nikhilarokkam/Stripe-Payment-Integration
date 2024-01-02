@@ -31,9 +31,7 @@ The project includes a simple web application where users can make payments usin
 
 ## Output
 
-
-
-
+![screencapture-checkout-stripe-c-pay-cs-test-a1slvwPpnb6bkXs8Uw2gmYEm4aAacG2U1jDtYIcWvrdFwPX3q6nqXFHv3v-2024-01-02-11_30_06](https://github.com/nikhilarokkam/Stripe-Payment-Integration/assets/115566678/447c00c3-becd-49d0-87d5-282fe239ca27)
 
 
 
