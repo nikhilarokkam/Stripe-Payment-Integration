@@ -13,7 +13,6 @@
 
 
 
-
 <b>Frontend:</b> ReactJS<br>
 <b>Backend:</b> NodeJS
 
