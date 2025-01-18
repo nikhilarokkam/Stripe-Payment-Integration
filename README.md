@@ -5,7 +5,6 @@
 
 
 
-
 # Project Name: Stripe Payment Integration
 
 <b>Frontend:</b> ReactJS<br>
